@@ -3,7 +3,7 @@ import formidable, { File } from "formidable";
 import fs from "fs";
 import { extractText, isScanned } from "../services/pdfExtractor";
 import { performOCR } from "../services/ocrService";
-import { runPassOne } from "../services/passOne";
+import { runPassOne, passOneOutputToClauses } from "../services/passOne";
 import { runPassTwo } from "../services/passTwo";
 import type { AnalysisResult, Jurisdiction } from "../types";
 import { DISCLAIMER_TEXT } from "../prompts/disclaimer";
@@ -43,7 +43,8 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
   }
 
   const passOneOutput = await runPassOne(text, jurisdiction);
-  const rights = await runPassTwo(passOneOutput, jurisdiction);
+  const clauseMappings = passOneOutputToClauses(passOneOutput);
+  const rights = await runPassTwo(clauseMappings, jurisdiction);
 
   const result: AnalysisResult = {
     jurisdiction,
