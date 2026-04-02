@@ -1,0 +1,79 @@
+[
+  {
+    "key": "right_to_know",
+    "name": "Right to Know",
+    "section": "Cal. Civ. Code § 1798.100",
+    "verbatimText": "A consumer shall have the right to request that a business that collects a consumer's personal information disclose to that consumer the categories and specific pieces of personal information the business has collected.",
+    "version": "CCPA as amended by CPRA 2023"
+  },
+  {
+    "key": "right_to_delete",
+    "name": "Right to Delete",
+    "section": "Cal. Civ. Code § 1798.105",
+    "verbatimText": "A consumer shall have the right to request that a business delete any personal information about the consumer which the business has collected from the consumer.",
+    "version": "CCPA as amended by CPRA 2023"
+  },
+  {
+    "key": "right_to_opt_out",
+    "name": "Right to Opt-Out of Sale or Sharing",
+    "section": "Cal. Civ. Code § 1798.120",
+    "verbatimText": "A consumer shall have the right, at any time, to direct a business that sells or shares personal information about the consumer to third parties not to sell or share the consumer's personal information.",
+    "version": "CCPA as amended by CPRA 2023"
+  },
+  {
+    "key": "right_to_non_discrimination",
+    "name": "Right to Non-Discrimination",
+    "section": "Cal. Civ. Code § 1798.125",
+    "verbatimText": "A business shall not discriminate against a consumer because the consumer exercised any of the consumer's rights under this title.",
+    "version": "CCPA as amended by CPRA 2023"
+  },
+  {
+    "key": "right_to_correct",
+    "name": "Right to Correct Inaccurate Personal Information",
+    "section": "Cal. Civ. Code § 1798.106",
+    "verbatimText": "A consumer shall have the right to request that a business that collects personal information about the consumer correct inaccurate personal information about the consumer.",
+    "version": "CCPA as amended by CPRA 2023"
+  },
+  {
+    "key": "right_to_limit_sensitive_pi",
+    "name": "Right to Limit Use of Sensitive Personal Information",
+    "section": "Cal. Civ. Code § 1798.121",
+    "verbatimText": "A consumer shall have the right, at any time, to direct a business that collects sensitive personal information about the consumer to limit its use of the consumer's sensitive personal information.",
+    "version": "CCPA as amended by CPRA 2023"
+  },
+  {
+    "key": "right_to_access_categories",
+    "name": "Right to Access Categories of Personal Information",
+    "section": "Cal. Civ. Code § 1798.110(c)(1)",
+    "verbatimText": "A business that collects personal information about consumers shall disclose the categories of personal information it has collected about that consumer.",
+    "version": "CCPA as amended by CPRA 2023"
+  },
+  {
+    "key": "right_to_access_specific_pieces",
+    "name": "Right to Access Specific Pieces of Personal Information",
+    "section": "Cal. Civ. Code § 1798.110(c)(5)",
+    "verbatimText": "A business shall disclose and deliver the required information to a consumer free of charge within 45 days of receiving the consumer's request.",
+    "version": "CCPA as amended by CPRA 2023"
+  },
+  {
+    "key": "right_to_portability",
+    "name": "Right to Data Portability",
+    "section": "Cal. Civ. Code § 1798.100(d)",
+    "verbatimText": "A business that receives a verifiable consumer request shall disclose and deliver the required information to a consumer free of charge in a portable and, to the extent technically feasible, readily usable format.",
+    "version": "CCPA as amended by CPRA 2023"
+  },
+  {
+    "key": "right_to_appeal",
+    "name": "Right to Appeal",
+    "section": "Cal. Civ. Code § 1798.185(a)(8)",
+    "verbatimText": "A business shall establish and document a process for a consumer to appeal the business's refusal to take action on a request within a reasonable period of time after the consumer's receipt of the decision.",
+    "version": "CCPA as amended by CPRA 2023"
+  },
+  {
+    "key": "right_to_opt_in_minors",
+    "name": "Right to Opt-In for Minors",
+    "section": "Cal. Civ. Code § 1798.120(c)",
+    "verbatimText": "A business shall not sell or share the personal information of consumers if the business has actual knowledge that the consumer is less than 16 years of age, unless the consumer has affirmatively authorized the sale or sharing of the consumer's personal information.",
+    "version": "CCPA as amended by CPRA 2023"
+  }
+]
