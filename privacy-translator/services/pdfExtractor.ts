@@ -1,4 +1,5 @@
-import pdfParse from "pdf-parse";
+// eslint-disable-next-line @typescript-eslint/no-require-imports
+const pdfParse = require("pdf-parse") as (buffer: Buffer) => Promise<{ text: string }>;
 
 const SCANNED_TEXT_THRESHOLD = 100; // characters — below this we treat the PDF as scanned
 

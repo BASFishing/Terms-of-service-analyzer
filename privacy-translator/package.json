@@ -28,11 +28,14 @@
     "typescript": "^5.4.5"
   },
   "jest": {
-    "preset": "ts-jest",
     "testEnvironment": "node",
-    "moduleNameMapper": {
-      "^../corpus/gdpr.json$": "<rootDir>/corpus/gdpr.json",
-      "^../corpus/ccpa.json$": "<rootDir>/corpus/ccpa.json"
+    "transform": {
+      "^.+\\.tsx?$": ["ts-jest", {
+        "tsconfig": {
+          "esModuleInterop": true,
+          "resolveJsonModule": true
+        }
+      }]
     }
   }
 }
