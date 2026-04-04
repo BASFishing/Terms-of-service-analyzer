@@ -6,12 +6,21 @@ import { runPassOne, passOneOutputToClauses } from "../services/passOne";
 import { runPassTwo } from "../services/passTwo";
 import type { AnalysisResult, Jurisdiction } from "../types";
 import { DISCLAIMER_TEXT } from "../prompts/disclaimer";
+import { checkRateLimit } from "../lib/rateLimiter";
 
 export const config = { api: { bodyParser: false } };
 
 export default async function handler(req: NextApiRequest, res: NextApiResponse) {
   if (req.method !== "POST") {
     return res.status(405).json({ error: "Method not allowed" });
+  }
+
+  const limit = checkRateLimit();
+  if (!limit.allowed) {
+    return res.status(429).json({
+      error: limit.reason,
+      ...(limit.retryAfterMs ? { retryAfterMs: limit.retryAfterMs } : {}),
+    });
   }
 
   const form = formidable({ maxFileSize: 10 * 1024 * 1024 });
@@ -83,5 +92,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
     return res.status(200).json(result);
   } catch (err) {
     return res.status(500).json({ error: `Analysis failed: ${(err as Error).message}` });
+  } finally {
+    limit.release();
   }
 }

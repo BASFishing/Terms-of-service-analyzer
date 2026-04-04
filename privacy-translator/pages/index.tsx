@@ -47,7 +47,8 @@ export default function Home() {
 
       if (!res.ok) {
         const body = await res.json().catch(() => ({ error: res.statusText }));
-        throw new Error(body.error ?? "Analysis failed");
+        const msg = body.error ?? "Analysis failed";
+        throw new Error(res.status === 429 ? `⏱ ${msg}` : msg);
       }
 
       const result = await res.json();
