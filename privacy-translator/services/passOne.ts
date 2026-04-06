@@ -1,9 +1,9 @@
-import Anthropic from "@anthropic-ai/sdk";
+import OpenAI from "openai";
 import { PASS_ONE_SYSTEM } from "../prompts/passOneSystem";
 import { getCorpus } from "../corpus";
 import type { Clause, Jurisdiction } from "../types";
 
-const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+const client = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
 export interface PassOneOutput {
   mappings: Record<string, Array<{ text: string; pageNumber: number | null }>>;
@@ -24,22 +24,24 @@ DOCUMENT TEXT:
 ${extractedText}
 `.trim();
 
-  const response = await client.messages.create({
-    model: "claude-opus-4-5",
+  const response = await client.chat.completions.create({
+    model: "gpt-4o",
     max_tokens: 4096,
-    system: PASS_ONE_SYSTEM,
-    messages: [{ role: "user", content: userMessage }],
+    messages: [
+      { role: "system", content: PASS_ONE_SYSTEM },
+      { role: "user", content: userMessage },
+    ],
   });
 
-  const content = response.content[0];
-  if (content.type !== "text") {
-    throw new Error("Unexpected response type from Claude in pass one");
+  const content = response.choices[0]?.message?.content;
+  if (!content) {
+    throw new Error("Empty response from OpenAI in pass one");
   }
 
   try {
-    return JSON.parse(content.text) as PassOneOutput;
+    return JSON.parse(content) as PassOneOutput;
   } catch {
-    throw new Error(`Failed to parse pass one JSON response: ${content.text.slice(0, 200)}`);
+    throw new Error(`Failed to parse pass one JSON response: ${content.slice(0, 200)}`);
   }
 }
 
