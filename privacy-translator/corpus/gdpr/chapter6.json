@@ -1,0 +1,87 @@
+{
+  "chapter": {
+    "chapter_number": 6,
+    "title": "Independent Supervisory Authorities",
+    "articles": [
+      {
+        "article_number": 51,
+        "title": "Supervisory authority",
+        "content": [
+          "Each Member State shall provide for one or more independent public authorities to be responsible for monitoring the application of this Regulation, in order to protect the fundamental rights and freedoms of natural persons in relation to processing and to facilitate the free flow of personal data within the Union ('supervisory authority')."
+        ]
+      },
+      {
+        "article_number": 52,
+        "title": "Independence",
+        "content": [
+          "Each supervisory authority shall act with complete independence in performing its tasks and exercising its powers in accordance with this Regulation."
+        ]
+      },
+      {
+        "article_number": 53,
+        "title": "General conditions for the members of the supervisory authority",
+        "content": [
+          "Member States shall provide for each member of their supervisory authorities to be appointed by means of a transparent procedure by:",
+          "Their parliament,",
+          "Their government,",
+          "Their head of State,",
+          "An independent body entrusted with the appointment under Member State law."
+        ]
+      },
+      {
+        "article_number": 54,
+        "title": "Rules on the establishment of the supervisory authority",
+        "content": [
+          "Each Member State shall provide by law for:",
+          "The establishment of each supervisory authority.",
+          "The qualifications and eligibility conditions required to be appointed as member of each supervisory authority.",
+          "The rules and procedures for the appointment of each member of each supervisory authority.",
+          "The duration of the term of each member of each supervisory authority which shall not be less than four years, except for the first appointment after 24 May 2016, part of which may take place for a shorter period where that is necessary to protect the independence of the supervisory authority by means of a staggered appointment procedure."
+        ]
+      },
+      {
+        "article_number": 55,
+        "title": "Competence",
+        "content": [
+          "Each supervisory authority shall be competent for the performance of the tasks assigned to and the exercise of the powers conferred on it in accordance with this Regulation on the territory of its own Member State."
+        ]
+      },
+      {
+        "article_number": 56,
+        "title": "Competence of the lead supervisory authority",
+        "content": [
+          "Without prejudice to Article 55, the supervisory authority of the main establishment or of the single establishment of the controller or processor shall be competent to act as lead supervisory authority for the cross-border processing carried out by that controller or processor in accordance with the procedure provided in Article 60."
+        ]
+      },
+      {
+        "article_number": 57,
+        "title": "Tasks",
+        "content": [
+          "Without prejudice to other tasks set out under this Regulation, each supervisory authority shall on its territory:",
+          "Monitor and enforce the application of this Regulation.",
+          "Promote public awareness and understanding of the risks, rules, safeguards and rights in relation to processing.",
+          "Advise, in accordance with Member State law, the national parliament, the government, and other institutions and bodies on legislative and administrative measures relating to the protection of natural persons' rights and freedoms with regard to processing."
+        ]
+      },
+      {
+        "article_number": 58,
+        "title": "Powers",
+        "content": [
+          "Each supervisory authority shall have all of the following investigative powers:",
+          "To order the controller and the processor, and, where applicable, the controller's or the processor's representative, to provide any information it requires for the performance of its tasks.",
+          "To carry out data protection audits.",
+          "To carry out a review on certifications issued pursuant to Article 42(7)."
+        ]
+      },
+      {
+        "article_number": 59,
+        "title": "Activity reports",
+        "content": [
+          "Each supervisory authority shall draw up an annual report on its activities, which may include a list of types of infringement notified and the types of measures taken in accordance with Article 58(2).",
+          "The reports shall be transmitted to the national parliament, the government, and other authorities as designated by Member State law.",
+          "They shall be made available to the public, the Commission, and the Board."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "chapter": {
+    "chapter_number": 1,
+    "title": "General Provisions",
+    "articles": [
+      {
+        "article_number": 1,
+        "title": "Subject-matter and objectives",
+        "content": [
+          "Protection of natural persons with regard to the processing of personal data.",
+          "Protection of fundamental rights and freedoms, particularly the right to data protection.",
+          "Ensure the free movement of personal data within the EU."
+        ]
+      },
+      {
+        "article_number": 2,
+        "title": "Material scope",
+        "content": [
+          "Applies to the processing of personal data wholly or partly by automated means.",
+          "Applies to the processing of personal data which forms part of a filing system.",
+          "Does not apply to personal data processed for activities outside the scope of Union law.",
+          "Excludes processing of personal data by a natural person in the course of a purely personal or household activity."
+        ]
+      },
+      {
+        "article_number": 3,
+        "title": "Territorial scope",
+        "content": [
+          "Applies to data processing in the context of activities of an establishment in the Union, regardless of whether the processing takes place in the Union or not.",
+          "Applies to data processing by controllers/processors not established in the Union when offering goods/services or monitoring behavior within the Union.",
+          "Applies to processing by a controller not established in the Union, but in a place where Member State law applies by virtue of public international law."
+        ]
+      },
+      {
+        "article_number": 4,
+        "title": "Definitions",
+        "content": {
+          "personal_data": "any information relating to an identified or identifiable natural person.",
+          "processing": "any operation or set of operations performed on personal data or sets of personal data.",
+          "restriction_of_processing": "the marking of stored personal data with the aim of limiting their processing in the future.",
+          "profiling": "any form of automated processing of personal data to evaluate certain personal aspects relating to a natural person.",
+          "pseudonymisation": "the processing of personal data in such a manner that the data can no longer be attributed to a specific data subject without the use of additional information.",
+          "controller": "the natural or legal person, public authority, agency or other body which determines the purposes and means of the processing of personal data.",
+          "processor": "a natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller.",
+          "recipient": "a natural or legal person, public authority, agency or another body, to which the personal data are disclosed.",
+          "third_party": "a natural or legal person, public authority, agency or body other than the data subject, controller, processor and persons who, under the direct authority of the controller or processor, are authorised to process personal data.",
+          "consent": "any freely given, specific, informed and unambiguous indication of the data subject's wishes by which he or she, by a statement or by a clear affirmative action, signifies agreement to the processing of personal data relating to him or her."
+        }
+      }
+    ]
+  }
+}

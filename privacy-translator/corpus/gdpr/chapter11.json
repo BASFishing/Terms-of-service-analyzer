@@ -1,0 +1,52 @@
+{
+  "chapter": {
+    "chapter_number": 11,
+    "title": "Final Provisions",
+    "articles": [
+      {
+        "article_number": 94,
+        "title": "Repeal of Directive 95/46/EC",
+        "content": [
+          "Directive 95/46/EC is repealed with effect from 25 May 2018.",
+          "References to the repealed Directive shall be construed as references to this Regulation."
+        ]
+      },
+      {
+        "article_number": 95,
+        "title": "Relationship with Directive 2002/58/EC",
+        "content": [
+          "This Regulation shall not impose additional obligations in relation to processing in connection with the provision of publicly available electronic communications services in public communication networks in the Union."
+        ]
+      },
+      {
+        "article_number": 96,
+        "title": "Relationship with previously concluded Agreements",
+        "content": [
+          "International agreements involving the transfer of personal data to third countries or international organisations which were concluded by Member States prior to 24 May 2016 and which comply with Union law applicable prior to that date shall remain in force until amended, replaced or revoked."
+        ]
+      },
+      {
+        "article_number": 97,
+        "title": "Commission reports",
+        "content": [
+          "By 25 May 2020, and every four years thereafter, the Commission shall submit a report on the evaluation and review of this Regulation to the European Parliament and the Council."
+        ]
+      },
+      {
+        "article_number": 98,
+        "title": "Review of other Union legal acts on data protection",
+        "content": [
+          "The Commission shall, if necessary, submit appropriate proposals with a view to amending other Union legal acts on the protection of personal data in order to ensure uniform and consistent protection of natural persons with regard to processing."
+        ]
+      },
+      {
+        "article_number": 99,
+        "title": "Entry into force and application",
+        "content": [
+          "This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+          "It shall apply from 25 May 2018."
+        ]
+      }
+    ]
+  }
+}

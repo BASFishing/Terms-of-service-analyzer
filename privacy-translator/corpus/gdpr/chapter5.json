@@ -1,0 +1,65 @@
+{
+  "chapter": {
+    "chapter_number": 5,
+    "title": "Transfers of Personal Data to Third Countries or International Organisations",
+    "articles": [
+      {
+        "article_number": 44,
+        "title": "General principle for transfers",
+        "content": [
+          "Any transfer of personal data which are undergoing processing or are intended for processing after transfer to a third country or to an international organisation shall take place only if, subject to the other provisions of this Regulation, the conditions laid down in this Chapter are complied with by the controller and processor, including for onward transfers of personal data from the third country or an international organisation to another third country or to another international organisation.",
+          "All provisions in this Chapter shall be applied in order to ensure that the level of protection of natural persons guaranteed by this Regulation is not undermined."
+        ]
+      },
+      {
+        "article_number": 45,
+        "title": "Transfers on the basis of an adequacy decision",
+        "content": [
+          "A transfer of personal data to a third country or an international organisation may take place where the Commission has decided that the third country, a territory or one or more specified sectors within that third country, or the international organisation in question ensures an adequate level of protection.",
+          "Such a transfer shall not require any specific authorisation."
+        ]
+      },
+      {
+        "article_number": 46,
+        "title": "Transfers subject to appropriate safeguards",
+        "content": [
+          "In the absence of a decision pursuant to Article 45(3), a controller or processor may transfer personal data to a third country or an international organisation only if the controller or processor has provided appropriate safeguards, and on condition that enforceable data subject rights and effective legal remedies for data subjects are available."
+        ]
+      },
+      {
+        "article_number": 47,
+        "title": "Binding corporate rules",
+        "content": [
+          "The competent supervisory authority shall approve binding corporate rules in accordance with the consistency mechanism set out in Article 63, provided that they:",
+          "Are legally binding and apply to and are enforced by every member concerned of the group of undertakings, or group of enterprises engaged in a joint economic activity, including their employees.",
+          "Expressly confer enforceable rights on data subjects with regard to the processing of their personal data."
+        ]
+      },
+      {
+        "article_number": 48,
+        "title": "Transfers or disclosures not authorised by Union law",
+        "content": [
+          "Any judgment of a court or tribunal and any decision of an administrative authority of a third country requiring a controller or processor to transfer or disclose personal data may only be recognised or enforceable in any manner if based on an international agreement, such as a mutual legal assistance treaty, in force between the requesting third country and the Union or a Member State, without prejudice to other grounds for transfer pursuant to this Chapter."
+        ]
+      },
+      {
+        "article_number": 49,
+        "title": "Derogations for specific situations",
+        "content": [
+          "In the absence of an adequacy decision pursuant to Article 45(3), or of appropriate safeguards pursuant to Article 46, including binding corporate rules, a transfer or a set of transfers of personal data to a third country or an international organisation shall take place only on one of the following conditions:",
+          "The data subject has explicitly consented to the proposed transfer, after having been informed of the possible risks of such transfers for the data subject due to the absence of an adequacy decision and appropriate safeguards.",
+          "The transfer is necessary for the performance of a contract between the data subject and the controller or the implementation of pre-contractual measures taken at the data subject's request."
+        ]
+      },
+      {
+        "article_number": 50,
+        "title": "International cooperation for the protection of personal data",
+        "content": [
+          "In relation to third countries and international organisations, the Commission and supervisory authorities shall take appropriate steps to:",
+          "Develop international cooperation mechanisms to facilitate the effective enforcement of legislation for the protection of personal data.",
+          "Provide international mutual assistance in the enforcement of legislation for the protection of personal data, including through notification, complaint referral, investigative assistance and information exchange, subject to appropriate safeguards for the protection of personal data and other fundamental rights and freedoms."
+        ]
+      }
+    ]
+  }
+}

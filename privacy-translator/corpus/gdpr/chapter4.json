@@ -1,0 +1,85 @@
+{
+  "chapter": {
+    "chapter_number": 4,
+    "title": "Controller and Processor",
+    "articles": [
+      {
+        "article_number": 24,
+        "title": "Responsibility of the controller",
+        "content": [
+          "Taking into account the nature, scope, context and purposes of processing as well as the risks of varying likelihood and severity for the rights and freedoms of natural persons, the controller shall implement appropriate technical and organisational measures to ensure and to be able to demonstrate that processing is performed in accordance with this Regulation.",
+          "Those measures shall be reviewed and updated where necessary."
+        ]
+      },
+      {
+        "article_number": 25,
+        "title": "Data protection by design and by default",
+        "content": [
+          "The controller shall, both at the time of the determination of the means for processing and at the time of the processing itself, implement appropriate technical and organisational measures, such as pseudonymisation, which are designed to implement data-protection principles, such as data minimisation, in an effective manner and to integrate the necessary safeguards into the processing in order to meet the requirements of this Regulation and protect the rights of data subjects.",
+          "The controller shall implement appropriate technical and organisational measures for ensuring that, by default, only personal data which are necessary for each specific purpose of the processing are processed."
+        ]
+      },
+      {
+        "article_number": 26,
+        "title": "Joint controllers",
+        "content": [
+          "Where two or more controllers jointly determine the purposes and means of processing, they shall be joint controllers.",
+          "They shall in a transparent manner determine their respective responsibilities for compliance with the obligations under this Regulation, in particular as regards the exercising of the rights of the data subject and their respective duties to provide the information referred to in Articles 13 and 14."
+        ]
+      },
+      {
+        "article_number": 27,
+        "title": "Representatives of controllers or processors not established in the Union",
+        "content": [
+          "Where Article 3(2) applies, the controller or the processor shall designate in writing a representative in the Union.",
+          "The representative shall be mandated by the controller or processor to be addressed in addition to or instead of the controller or the processor by supervisory authorities and data subjects, on all issues related to processing, for the purposes of ensuring compliance with this Regulation."
+        ]
+      },
+      {
+        "article_number": 28,
+        "title": "Processor",
+        "content": [
+          "Where processing is to be carried out on behalf of a controller, the controller shall use only processors providing sufficient guarantees to implement appropriate technical and organisational measures in such a manner that processing will meet the requirements of this Regulation and ensure the protection of the rights of the data subject.",
+          "Processing by a processor shall be governed by a contract or other legal act under Union or Member State law, that is binding on the processor with regard to the controller and that sets out the subject-matter and duration of the processing, the nature and purpose of the processing, the type of personal data and categories of data subjects and the obligations and rights of the controller."
+        ]
+      },
+      {
+        "article_number": 29,
+        "title": "Processing under the authority of the controller or processor",
+        "content": [
+          "The processor and any person acting under the authority of the controller or of the processor, who has access to personal data, shall not process those data except on instructions from the controller, unless required to do so by Union or Member State law."
+        ]
+      },
+      {
+        "article_number": 30,
+        "title": "Records of processing activities",
+        "content": [
+          "Each controller and, where applicable, the controller's representative, shall maintain a record of processing activities under its responsibility.",
+          "That record shall contain all of the following information:",
+          "The name and contact details of the controller and, where applicable, the joint controller, the controller's representative and the data protection officer.",
+          "The purposes of the processing.",
+          "A description of the categories of data subjects and of the categories of personal data.",
+          "The categories of recipients to whom the personal data have been or will be disclosed.",
+          "Where applicable, transfers of personal data to a third country or an international organisation.",
+          "Where possible, the envisaged time limits for erasure of the different categories of data.",
+          "Where possible, a general description of the technical and organisational security measures referred to in Article 32(1)."
+        ]
+      },
+      {
+        "article_number": 31,
+        "title": "Cooperation with the supervisory authority",
+        "content": [
+          "The controller and the processor and, where applicable, their representatives, shall cooperate, on request, with the supervisory authority in the performance of its tasks."
+        ]
+      },
+      {
+        "article_number": 32,
+        "title": "Security of processing",
+        "content": [
+          "Taking into account the state of the art, the costs of implementation and the nature, scope, context and purposes of processing as well as the risk of varying likelihood and severity for the rights and freedoms of natural persons, the controller and the processor shall implement appropriate technical and organisational measures to ensure a level of security appropriate to the risk.",
+          "In assessing the appropriate level of security account shall be taken in particular of the risks that are presented by processing, in particular from accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to personal data transmitted, stored or otherwise processed."
+        ]
+      }
+    ]
+  }
+}

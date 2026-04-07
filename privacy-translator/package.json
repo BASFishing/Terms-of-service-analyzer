@@ -9,10 +9,10 @@
     "test": "jest"
   },
   "dependencies": {
-    "openai": "^4.52.0",
     "formidable": "^3.5.1",
-    "next": "14.2.3",
     "mammoth": "^1.7.0",
+    "next": "^16.2.2",
+    "openai": "^4.52.0",
     "pdf-parse": "^1.1.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
@@ -31,12 +31,15 @@
   "jest": {
     "testEnvironment": "node",
     "transform": {
-      "^.+\\.tsx?$": ["ts-jest", {
-        "tsconfig": {
-          "esModuleInterop": true,
-          "resolveJsonModule": true
+      "^.+\\.tsx?$": [
+        "ts-jest",
+        {
+          "tsconfig": {
+            "esModuleInterop": true,
+            "resolveJsonModule": true
+          }
         }
-      }]
+      ]
     }
   }
 }

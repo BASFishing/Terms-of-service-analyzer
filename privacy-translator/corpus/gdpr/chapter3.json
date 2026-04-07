@@ -1,0 +1,128 @@
+{
+  "chapter": {
+    "chapter_number": 3,
+    "title": "Rights of the Data Subject",
+    "articles": [
+      {
+        "article_number": 12,
+        "title": "Transparent information, communication and modalities for the exercise of the rights of the data subject",
+        "content": [
+          "The controller shall take appropriate measures to provide any information referred to in Articles 13 and 14 and any communication under Articles 15 to 22 and 34 relating to processing to the data subject in a concise, transparent, intelligible and easily accessible form, using clear and plain language.",
+          "The information shall be provided in writing, or by other means, including, where appropriate, by electronic means.",
+          "When requested by the data subject, the information may be provided orally, provided that the identity of the data subject is proven by other means.",
+          "The controller shall facilitate the exercise of data subject rights under Articles 15 to 22."
+        ]
+      },
+      {
+        "article_number": 13,
+        "title": "Information to be provided where personal data are collected from the data subject",
+        "content": [
+          "The identity and the contact details of the controller and, where applicable, of the controller's representative.",
+          "The contact details of the data protection officer, where applicable.",
+          "The purposes of the processing for which the personal data are intended as well as the legal basis for the processing.",
+          "Where the processing is based on point (f) of Article 6(1), the legitimate interests pursued by the controller or by a third party.",
+          "The recipients or categories of recipients of the personal data, if any.",
+          "Where applicable, the fact that the controller intends to transfer personal data to a third country or international organisation."
+        ]
+      },
+      {
+        "article_number": 14,
+        "title": "Information to be provided where personal data have not been obtained from the data subject",
+        "content": [
+          "The identity and the contact details of the controller and, where applicable, of the controller's representative.",
+          "The contact details of the data protection officer, where applicable.",
+          "The purposes of the processing for which the personal data are intended as well as the legal basis for the processing.",
+          "The categories of personal data concerned.",
+          "The recipients or categories of recipients of the personal data, if any.",
+          "Where applicable, that the controller intends to transfer personal data to a recipient in a third country or international organisation."
+        ]
+      },
+      {
+        "article_number": 15,
+        "title": "Right of access by the data subject",
+        "content": [
+          "The data subject shall have the right to obtain from the controller confirmation as to whether or not personal data concerning him or her are being processed, and, where that is the case, access to the personal data and the following information:",
+          "The purposes of the processing.",
+          "The categories of personal data concerned.",
+          "The recipients or categories of recipient to whom the personal data have been or will be disclosed.",
+          "Where possible, the envisaged period for which the personal data will be stored.",
+          "The existence of the right to request from the controller rectification or erasure of personal data or restriction of processing of personal data concerning the data subject or to object to such processing.",
+          "The right to lodge a complaint with a supervisory authority.",
+          "Where the personal data are not collected from the data subject, any available information as to their source."
+        ]
+      },
+      {
+        "article_number": 16,
+        "title": "Right to rectification",
+        "content": [
+          "The data subject shall have the right to obtain from the controller without undue delay the rectification of inaccurate personal data concerning him or her.",
+          "Taking into account the purposes of the processing, the data subject shall have the right to have incomplete personal data completed, including by means of providing a supplementary statement."
+        ]
+      },
+      {
+        "article_number": 17,
+        "title": "Right to erasure ('right to be forgotten')",
+        "content": [
+          "The data subject shall have the right to obtain from the controller the erasure of personal data concerning him or her without undue delay.",
+          "The controller shall have the obligation to erase personal data without undue delay where one of the following grounds applies:",
+          "The personal data are no longer necessary in relation to the purposes for which they were collected or otherwise processed.",
+          "The data subject withdraws consent on which the processing is based and where there is no other legal ground for the processing.",
+          "The data subject objects to the processing pursuant to Article 21(1) and there are no overriding legitimate grounds for the processing.",
+          "The personal data have been unlawfully processed.",
+          "The personal data have to be erased for compliance with a legal obligation in Union or Member State law to which the controller is subject.",
+          "The personal data have been collected in relation to the offer of information society services referred to in Article 8(1)."
+        ]
+      },
+      {
+        "article_number": 18,
+        "title": "Right to restriction of processing",
+        "content": [
+          "The data subject shall have the right to obtain from the controller restriction of processing where one of the following applies:",
+          "The accuracy of the personal data is contested by the data subject, for a period enabling the controller to verify the accuracy of the personal data.",
+          "The processing is unlawful and the data subject opposes the erasure of the personal data and requests the restriction of their use instead.",
+          "The controller no longer needs the personal data for the purposes of the processing, but they are required by the data subject for the establishment, exercise or defence of legal claims.",
+          "The data subject has objected to processing pending the verification whether the legitimate grounds of the controller override those of the data subject."
+        ]
+      },
+      {
+        "article_number": 19,
+        "title": "Notification obligation regarding rectification or erasure of personal data or restriction of processing",
+        "content": [
+          "The controller shall communicate any rectification or erasure of personal data or restriction of processing to each recipient to whom the personal data have been disclosed, unless this proves impossible or involves disproportionate effort.",
+          "The controller shall inform the data subject about those recipients if the data subject requests it."
+        ]
+      },
+      {
+        "article_number": 20,
+        "title": "Right to data portability",
+        "content": [
+          "The data subject shall have the right to receive the personal data concerning him or her, which he or she has provided to a controller, in a structured, commonly used and machine-readable format and have the right to transmit those data to another controller without hindrance from the controller to which the personal data have been provided.",
+          "In exercising his or her right to data portability, the data subject shall have the right to have the personal data transmitted directly from one controller to another, where technically feasible."
+        ]
+      },
+      {
+        "article_number": 21,
+        "title": "Right to object",
+        "content": [
+          "The data subject shall have the right to object, on grounds relating to his or her particular situation, at any time to processing of personal data concerning him or her which is based on point (e) or (f) of Article 6(1), including profiling based on those provisions.",
+          "The controller shall no longer process the personal data unless the controller demonstrates compelling legitimate grounds for the processing which override the interests, rights and freedoms of the data subject or for the establishment, exercise or defence of legal claims."
+        ]
+      },
+      {
+        "article_number": 22,
+        "title": "Automated individual decision-making, including profiling",
+        "content": [
+          "The data subject shall have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning him or her or similarly significantly affects him or her.",
+          "Paragraph 1 shall not apply if the decision is necessary for entering into, or performance of, a contract between the data subject and a data controller, is authorised by Union or Member State law, or is based on the data subject's explicit consent."
+        ]
+      },
+      {
+        "article_number": 23,
+        "title": "Restrictions",
+        "content": [
+          "Union or Member State law to which the controller or processor is subject may restrict by way of a legislative measure the scope of the obligations and rights provided for in Articles 12 to 22 and Article 34, when such a restriction respects the essence of the fundamental rights and freedoms and is a necessary and proportionate measure in a democratic society to safeguard national security; defence; public security; the prevention, investigation, detection or prosecution of criminal offences; other important objectives of general public interest of the Union or of a Member State; the protection of judicial independence and judicial proceedings; the prevention, investigation, detection and prosecution of breaches of ethics for regulated professions; a monitoring, inspection or regulatory function connected, even occasionally, to the exercise of official authority; the protection of the data subject or the rights and freedoms of others; or the enforcement of civil law claims."
+        ]
+      }
+    ]
+  }
+}
