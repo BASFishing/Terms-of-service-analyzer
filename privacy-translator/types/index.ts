@@ -1,5 +1,13 @@
 export type Jurisdiction = "GDPR" | "CCPA";
 
+export interface GdprArticle {
+  articleNumber: number;
+  title: string;
+  content: string[] | Record<string, string>;
+  chapterNumber: number;
+  chapterTitle: string;
+}
+
 export type ConfidenceLevel = "Low" | "Partial" | "Full";
 
 export interface CorpusEntry {
