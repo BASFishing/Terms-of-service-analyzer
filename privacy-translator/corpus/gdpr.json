@@ -1,0 +1,79 @@
+[
+  {
+    "key": "right_to_information",
+    "name": "Right to Information",
+    "article": "Articles 13-14",
+    "verbatimText": "The controller shall, at the time when personal data are obtained, provide the data subject with the following information: the identity and the contact details of the controller.",
+    "version": "GDPR 2016/679"
+  },
+  {
+    "key": "right_of_access",
+    "name": "Right of Access",
+    "article": "Article 15",
+    "verbatimText": "The data subject shall have the right to obtain from the controller confirmation as to whether or not personal data concerning him or her are being processed.",
+    "version": "GDPR 2016/679"
+  },
+  {
+    "key": "right_to_rectification",
+    "name": "Right to Rectification",
+    "article": "Article 16",
+    "verbatimText": "The data subject shall have the right to obtain from the controller without undue delay the rectification of inaccurate personal data concerning him or her.",
+    "version": "GDPR 2016/679"
+  },
+  {
+    "key": "right_to_erasure",
+    "name": "Right to Erasure",
+    "article": "Article 17",
+    "verbatimText": "The data subject shall have the right to obtain from the controller the erasure of personal data concerning him or her without undue delay.",
+    "version": "GDPR 2016/679"
+  },
+  {
+    "key": "right_to_restrict_processing",
+    "name": "Right to Restriction of Processing",
+    "article": "Article 18",
+    "verbatimText": "The data subject shall have the right to obtain from the controller restriction of processing where one of the following applies: the accuracy of the personal data is contested by the data subject.",
+    "version": "GDPR 2016/679"
+  },
+  {
+    "key": "right_to_data_portability",
+    "name": "Right to Data Portability",
+    "article": "Article 20",
+    "verbatimText": "The data subject shall have the right to receive the personal data concerning him or her, which he or she has provided to a controller, in a structured, commonly used and machine-readable format.",
+    "version": "GDPR 2016/679"
+  },
+  {
+    "key": "right_to_object",
+    "name": "Right to Object",
+    "article": "Article 21",
+    "verbatimText": "The data subject shall have the right to object, on grounds relating to his or her particular situation, at any time to processing of personal data concerning him or her.",
+    "version": "GDPR 2016/679"
+  },
+  {
+    "key": "rights_related_to_automated_decision_making",
+    "name": "Rights Related to Automated Decision-Making",
+    "article": "Article 22",
+    "verbatimText": "The data subject shall have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning him or her.",
+    "version": "GDPR 2016/679"
+  },
+  {
+    "key": "right_to_withdraw_consent",
+    "name": "Right to Withdraw Consent",
+    "article": "Article 7(3)",
+    "verbatimText": "The data subject shall have the right to withdraw his or her consent at any time. The withdrawal of consent shall not affect the lawfulness of processing based on consent before its withdrawal.",
+    "version": "GDPR 2016/679"
+  },
+  {
+    "key": "right_to_lodge_complaint",
+    "name": "Right to Lodge a Complaint",
+    "article": "Article 77",
+    "verbatimText": "Without prejudice to any other administrative or judicial remedy, every data subject shall have the right to lodge a complaint with a supervisory authority.",
+    "version": "GDPR 2016/679"
+  },
+  {
+    "key": "right_to_non_discrimination",
+    "name": "Right to Non-Discrimination",
+    "article": "Article 5(1)(a)",
+    "verbatimText": "Personal data shall be processed lawfully, fairly and in a transparent manner in relation to the data subject.",
+    "version": "GDPR 2016/679"
+  }
+]

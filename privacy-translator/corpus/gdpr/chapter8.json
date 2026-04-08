@@ -1,0 +1,65 @@
+{
+  "chapter": {
+    "chapter_number": 8,
+    "title": "Remedies, Liability and Penalties",
+    "articles": [
+      {
+        "article_number": 77,
+        "title": "Right to lodge a complaint with a supervisory authority",
+        "content": [
+          "Without prejudice to any other administrative or judicial remedy, every data subject shall have the right to lodge a complaint with a supervisory authority, in particular in the Member State of his or her habitual residence, place of work or place of the alleged infringement if the data subject considers that the processing of personal data relating to him or her infringes this Regulation."
+        ]
+      },
+      {
+        "article_number": 78,
+        "title": "Right to an effective judicial remedy against a supervisory authority",
+        "content": [
+          "Without prejudice to any other administrative or non-judicial remedy, each natural or legal person shall have the right to an effective judicial remedy against a legally binding decision of a supervisory authority concerning them."
+        ]
+      },
+      {
+        "article_number": 79,
+        "title": "Right to an effective judicial remedy against a controller or processor",
+        "content": [
+          "Without prejudice to any available administrative or non-judicial remedy, including the right to lodge a complaint with a supervisory authority pursuant to Article 77, each data subject shall have the right to an effective judicial remedy where he or she considers that his or her rights under this Regulation have been infringed as a result of the processing of his or her personal data in non-compliance with this Regulation."
+        ]
+      },
+      {
+        "article_number": 80,
+        "title": "Representation of data subjects",
+        "content": [
+          "The data subject shall have the right to mandate a not-for-profit body, organisation or association which has been properly constituted in accordance with the law of a Member State, has statutory objectives which are in the public interest, and is active in the field of the protection of data subjects' rights and freedoms with regard to the protection of their personal data to lodge the complaint on his or her behalf, to exercise the rights referred to in Articles 77, 78 and 79 on his or her behalf, and to exercise the right to receive compensation referred to in Article 82 on his or her behalf where provided for by Member State law."
+        ]
+      },
+      {
+        "article_number": 81,
+        "title": "Suspension of proceedings",
+        "content": [
+          "Where a competent court of a Member State has information on proceedings, which concern the same subject matter as regards processing by the same controller or processor, or the same cause of action, it shall contact the court first seized to confirm the existence of such proceedings."
+        ]
+      },
+      {
+        "article_number": 82,
+        "title": "Right to compensation and liability",
+        "content": [
+          "Any person who has suffered material or non-material damage as a result of an infringement of this Regulation shall have the right to receive compensation from the controller or processor for the damage suffered.",
+          "Any controller involved in processing shall be liable for the damage caused by processing which infringes this Regulation."
+        ]
+      },
+      {
+        "article_number": 83,
+        "title": "General conditions for imposing administrative fines",
+        "content": [
+          "Each supervisory authority shall ensure that the imposition of administrative fines pursuant to this Article in respect of infringements of this Regulation referred to in paragraphs 4, 5 and 6 shall in each individual case be effective, proportionate and dissuasive."
+        ]
+      },
+      {
+        "article_number": 84,
+        "title": "Penalties",
+        "content": [
+          "Member States shall lay down the rules on other penalties applicable to infringements of this Regulation in particular for infringements which are not subject to administrative fines pursuant to Article 83, and shall take all measures necessary to ensure that they are implemented."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "chapter": {
+    "chapter_number": 9,
+    "title": "Provisions Relating to Specific Processing Situations",
+    "articles": [
+      {
+        "article_number": 85,
+        "title": "Processing and freedom of expression and information",
+        "content": [
+          "Member States shall by law reconcile the right to the protection of personal data pursuant to this Regulation with the right to freedom of expression and information, including processing for journalistic purposes and the purposes of academic, artistic or literary expression."
+        ]
+      },
+      {
+        "article_number": 86,
+        "title": "Processing and public access to official documents",
+        "content": [
+          "Personal data in official documents held by a public authority or a public body, or by a private body for the performance of a task carried out in the public interest, may be disclosed by the authority or body in accordance with Union or Member State law to which the public authority or body is subject in order to reconcile public access to official documents with the right to the protection of personal data pursuant to this Regulation."
+        ]
+      },
+      {
+        "article_number": 87,
+        "title": "Processing of the national identification number",
+        "content": [
+          "Member States may further determine the specific conditions for the processing of a national identification number or any other identifier of general application."
+        ]
+      },
+      {
+        "article_number": 88,
+        "title": "Processing in the context of employment",
+        "content": [
+          "Member States may, by law or by collective agreements, provide for more specific rules to ensure the protection of the rights and freedoms in respect of the processing of employees' personal data in the employment context."
+        ]
+      },
+      {
+        "article_number": 89,
+        "title": "Safeguards and derogations relating to processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes",
+        "content": [
+          "Processing for these purposes shall be subject to appropriate safeguards, in accordance with this Regulation, for the rights and freedoms of the data subject."
+        ]
+      },
+      {
+        "article_number": 90,
+        "title": "Obligations of secrecy",
+        "content": [
+          "Member States may adopt specific rules to set out the powers of the supervisory authorities laid down in points (e) and (f) of Article 58(1) in relation to controllers or processors that are subject, under Union or Member State law or rules established by national competent bodies, to an obligation of professional secrecy or other equivalent obligations of secrecy where this is necessary and proportionate to reconcile the right to the protection of personal data with an obligation of secrecy."
+        ]
+      },
+      {
+        "article_number": 91,
+        "title": "Existing data protection rules of churches and religious associations",
+        "content": [
+          "Where in a Member State, at the time of entry into force of this Regulation, churches and religious associations or communities apply comprehensive rules relating to the protection of natural persons with regard to processing, such rules shall continue to apply, provided that they are brought into line with this Regulation."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "chapter": {
+    "chapter_number": 7,
+    "title": "Cooperation and Consistency",
+    "sections": [
+      {
+        "section_number": 1,
+        "title": "Cooperation",
+        "articles": [
+          {
+            "article_number": 60,
+            "title": "Cooperation between the lead supervisory authority and the other supervisory authorities concerned",
+            "content": [
+              "The lead supervisory authority shall cooperate with the other supervisory authorities concerned in an endeavour to reach consensus.",
+              "The lead supervisory authority and the supervisory authorities concerned shall exchange all relevant information with each other."
+            ]
+          },
+          {
+            "article_number": 61,
+            "title": "Mutual assistance",
+            "content": [
+              "Supervisory authorities shall provide each other with relevant information and mutual assistance in order to implement and apply this Regulation in a consistent manner, and shall put in place measures for effective cooperation with one another."
+            ]
+          },
+          {
+            "article_number": 62,
+            "title": "Joint operations of supervisory authorities",
+            "content": [
+              "Supervisory authorities shall, where appropriate, conduct joint operations including joint investigations and joint enforcement measures in which members or staff of the supervisory authorities of other Member States are involved."
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": 2,
+        "title": "Consistency",
+        "articles": [
+          {
+            "article_number": 63,
+            "title": "Consistency mechanism",
+            "content": [
+              "In order to contribute to the consistent application of this Regulation throughout the Union, the supervisory authorities shall cooperate with each other and the Commission through the consistency mechanism."
+            ]
+          },
+          {
+            "article_number": 64,
+            "title": "Opinion of the Board",
+            "content": [
+              "The Board shall issue an opinion where a competent supervisory authority intends to adopt any of the measures specified in Article 64(1), or where a supervisory authority requests that a matter be examined."
+            ]
+          },
+          {
+            "article_number": 65,
+            "title": "Dispute resolution by the Board",
+            "content": [
+              "In order to ensure the correct and consistent application of this Regulation in individual cases, the Board shall adopt a binding decision in the following cases:",
+              "Where, in a case referred to in Article 60(4), a supervisory authority concerned has raised a relevant and reasoned objection to a draft decision of the lead supervisory authority or the lead supervisory authority has rejected such an objection as being not relevant or reasoned."
+            ]
+          },
+          {
+            "article_number": 66,
+            "title": "Urgency procedure",
+            "content": [
+              "In exceptional circumstances, where a supervisory authority concerned considers that there is an urgent need to act in order to protect the rights and freedoms of data subjects, it may immediately adopt provisional measures intended to produce legal effects on its own territory with a specified period of validity which shall not exceed three months."
+            ]
+          },
+          {
+            "article_number": 67,
+            "title": "Exchange of information",
+            "content": [
+              "The Commission may adopt implementing acts of general scope for specifying the arrangements for the exchange of information by electronic means between supervisory authorities, and between supervisory authorities and the Board, in particular the standardised format referred to in Article 64."
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": 3,
+        "title": "European Data Protection Board",
+        "articles": [
+          {
+            "article_number": 68,
+            "title": "European Data Protection Board",
+            "content": [
+              "The European Data Protection Board (EDPB) is hereby established as a body of the Union and shall have legal personality."
+            ]
+          },
+          {
+            "article_number": 69,
+            "title": "Independence",
+            "content": [
+              "The Board shall act independently when performing its tasks or exercising its powers pursuant to Articles 70 and 71."
+            ]
+          },
+          {
+            "article_number": 70,
+            "title": "Tasks of the Board",
+            "content": [
+              "The Board shall ensure the consistent application of this Regulation. To that end, the Board shall perform the following tasks:",
+              "Monitor and ensure the correct application of this Regulation in the cases provided for in Articles 64 and 65 without prejudice to the tasks of national supervisory authorities."
+            ]
+          },
+          {
+            "article_number": 71,
+            "title": "Reports",
+            "content": [
+              "The Board shall draw up an annual report regarding the protection of natural persons with regard to processing in the Union and, where relevant, in third countries and international organisations."
+            ]
+          },
+          {
+            "article_number": 72,
+            "title": "Procedure",
+            "content": [
+              "The Board shall take decisions by a simple majority of its members, unless otherwise provided for in this Regulation."
+            ]
+          },
+          {
+            "article_number": 73,
+            "title": "Chair",
+            "content": [
+              "The Board shall elect a chair and two deputy chairs from amongst its members by simple majority."
+            ]
+          },
+          {
+            "article_number": 74,
+            "title": "Tasks of the Chair",
+            "content": [
+              "The Chair shall have the following tasks:",
+              "To convene the meetings of the Board and prepare its agenda.",
+              "To notify decisions adopted by the Board pursuant to Article 65 to the lead supervisory authority and the supervisory authorities concerned."
+            ]
+          },
+          {
+            "article_number": 75,
+            "title": "Secretariat",
+            "content": [
+              "The Board shall have a secretariat, which shall be provided by the European Data Protection Supervisor."
+            ]
+          },
+          {
+            "article_number": 76,
+            "title": "Confidentiality",
+            "content": [
+              "The discussions of the Board shall be confidential where the Board deems it necessary, as provided for in its rules of procedure."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
