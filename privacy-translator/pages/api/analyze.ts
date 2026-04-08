@@ -1,12 +1,12 @@
 import type { NextApiRequest, NextApiResponse } from "next";
 import formidable, { File } from "formidable";
 import fs from "fs";
-import { extractTextFromBuffer, detectFormat } from "../services/documentExtractor";
-import { runPassOne, passOneOutputToClauses } from "../services/passOne";
-import { runPassTwo } from "../services/passTwo";
-import type { AnalysisResult, Jurisdiction } from "../types";
-import { DISCLAIMER_TEXT } from "../prompts/disclaimer";
-import { checkRateLimit } from "../lib/rateLimiter";
+import { extractTextFromBuffer, detectFormat } from "../../services/documentExtractor";
+import { runPassOne, passOneOutputToClauses } from "../../services/passOne";
+import { runPassTwo } from "../../services/passTwo";
+import type { AnalysisResult, Jurisdiction } from "../../types";
+import { DISCLAIMER_TEXT } from "../../prompts/disclaimer";
+import { checkRateLimit } from "../../lib/rateLimiter";
 
 export const config = { api: { bodyParser: false } };
 

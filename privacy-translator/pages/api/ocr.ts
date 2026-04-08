@@ -1,7 +1,7 @@
 import type { NextApiRequest, NextApiResponse } from "next";
 import formidable, { File } from "formidable";
 import fs from "fs";
-import { performOCR } from "../services/ocrService";
+import { performOCR } from "../../services/ocrService";
 
 export const config = {
   api: {
