@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git config:*)",
+      "Bash(ssh -T git@github.com)",
+      "Bash(curl -s \"https://api.github.com/repos/BASFishing/Terms-of-service-analyzer\")",
+      "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); print\\('owner:', d.get\\('owner',{}\\).get\\('login'\\)\\); print\\('permissions:', d.get\\('permissions'\\)\\); print\\('private:', d.get\\('private'\\)\\)\")",
+      "Bash(ssh-keygen -t ed25519 -C \"bakari.sibert@gmail.com\" -f ~/.ssh/id_basf -N \"\")",
+      "Read(//Users/bakarisibert/.ssh/**)",
+      "Bash(ssh -T -i ~/.ssh/id_basf -o IdentitiesOnly=yes git@github.com)",
+      "Bash(security find-internet-password:*)"
+    ]
+  }
+}
